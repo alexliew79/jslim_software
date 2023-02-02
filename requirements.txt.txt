@@ -1,4 +1,0 @@
-streamlit
-docx
-spacy
-random
