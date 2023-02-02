@@ -3,4 +3,3 @@ docx
 spacy
 openpyxl
 numpy
-random
