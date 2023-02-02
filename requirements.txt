@@ -1,6 +1,5 @@
 streamlit
 docx
 spacy
-random
 openpyxl
 numpy
