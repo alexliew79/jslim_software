@@ -3,6 +3,7 @@ import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
 import numpy as np
+import openpyxl
 
 from pandas.api.types import (
     is_categorical_dtype,
